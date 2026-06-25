@@ -483,7 +483,7 @@ public class Cliente {
 ```
 package dao;
 
-import conexion.ConexionOracle;
+import conexion.ConexionMySQL;
 import modelo.Cliente;
 
 import org.springframework.beans.factory.annotation.Autowired;
