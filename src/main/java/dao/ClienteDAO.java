@@ -72,5 +72,5 @@ public class ClienteDAO {
             e.printStackTrace();
         }
         return lista;
-    }   
+    }
 }
