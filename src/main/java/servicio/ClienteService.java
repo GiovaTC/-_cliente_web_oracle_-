@@ -31,5 +31,5 @@ public class ClienteService {
     public List<Cliente> listar() {
 
         return clienteDAO.listar();
-    }       
+    }
 }
