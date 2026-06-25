@@ -2,6 +2,8 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/2ffd9b94-1637-42b6-afdc-7ccc3d680d8d" />  
 
+<img width="2551" height="1034" alt="image" src="https://github.com/user-attachments/assets/8780c4dd-7af3-42aa-a8d1-62a54ac5da6d" /> 
+
 ````markdown
 # principal
 
